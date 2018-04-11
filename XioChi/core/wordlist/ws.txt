@@ -1,0 +1,10 @@
+cms/login.php
+wp-login.php
+webadmin.php
+/admin/admin.php
+rcjakar/admin/login.js
+admin.php
+admin/home.brf
+administrator/login.php
+adm/admloginuser.js
+wp-admin.php
